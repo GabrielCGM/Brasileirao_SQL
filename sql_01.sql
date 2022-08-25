@@ -1,3 +1,8 @@
+*.kicad_pcb linguist-detectable=true
+*.sch linguist-detectable=true
+tools/export_bom.py linguist-detectable=false
+
+
 /* INSERINDO REGISTROS NA TABELA */
 
 INSERT INTO seriea(id,Nome_Time, Pontos, VIT, EMP, DERR) VALUES(1,'PALMEIRAS',49,14,7,2);
